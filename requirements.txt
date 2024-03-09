@@ -2,4 +2,4 @@ setuptools
 pandas
 numpy
 
--e .
+-e
