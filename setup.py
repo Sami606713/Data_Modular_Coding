@@ -12,6 +12,7 @@ def load_packages(file_path:str)->List[str]:
 
         if(hifen in requirements):
             requirements.remove(hifen)
+            
     return requirements
 
 
